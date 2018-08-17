@@ -1,2 +1,2 @@
-# Social-network-analysis---Twitter
+# Social network analysis-Twitter
 Analysis of tweets about President Trump
