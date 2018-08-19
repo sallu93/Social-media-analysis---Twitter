@@ -1,6 +1,6 @@
 # Social media analytics-Twitter
 
-Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the common topics in the tweets.
+Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the common topics in the tweets.
 
 ---> Collected 10,000 tweets about President trump from Twitter using Twitter streaming API. Tweets collected were from all over the US.
 ---> The tweets collected(DATA) were cleaned and prepared for analysis (Pre-processing).
@@ -9,3 +9,6 @@ Analysis of tweets about President Trump to determine the prevalent public senti
 ---> Used topic modelling to find the trending topics in the tweets.
 ---> Collected tweets from different states in the US to perform analysis on tweets from that particular state.
 ---> Came up with interesting insights from the analysis.
+
+
+Other Authors: Sujatha Sivakumar and Tapan Patel
