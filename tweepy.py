@@ -6,7 +6,9 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-access_token = " "
+# The four variables below require your own personal access data which can be retrieved from twitter.
+
+access_token = " "            
 access_token_secret = " "
 consumer_key = " "
 consumer_secret = " "
@@ -28,5 +30,9 @@ if __name__ == '__main__':
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     stream = Stream(auth, l,language='en')
-    stream.filter(locations=[ #enter your coordinates.4 values.as a list])
+    stream.filter(locations=[-122.761230,37.986422,-120.080566,41.794864])     # These are just sample location coordinates
     
+'To run this code without interruptions'
+#Reference - https://dev.twitter.com/streaming/overview/request-parameters#track
+#locations=[-122.761230,37.986422,-120.080566,41.794864] - California
+#locations=[-103.381348,29.333101,-94.240723,33.237539] - Texas
