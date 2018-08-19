@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 27 16:59:22 2017
-
-@author: Tapan Patel
-"""
-
 #import HTMLParser
 from html.parser import HTMLParser as h_p
 import preprocessor as p
