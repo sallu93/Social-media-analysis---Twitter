@@ -20,4 +20,4 @@ Collection and Analysis of tweets about President Trump to determine the prevale
 -> Programming language used: Python
 
 
-Other Contributors: Sujatha Sivakumar and Tapan Patel.
+Other Contributors:  Sujatha Sivakumar and Tapan Patel.
