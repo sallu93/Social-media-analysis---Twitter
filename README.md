@@ -2,6 +2,7 @@
 
 Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the common topics in the tweets.
 
+
 -> Collected 10,000 tweets about President trump from Twitter using Twitter streaming API. Tweets were collected from all over the US.
 
 -> The tweets collected(DATA) were cleaned and prepared for analysis (Pre-processing).
