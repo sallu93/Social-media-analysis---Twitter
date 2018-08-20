@@ -1,6 +1,6 @@
 # Social media analytics - Twitter
 
-Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the common topics in the tweets.
+Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the trending  topics in the tweets.
 
 
 -> Collected 10,000 tweets about President trump from Twitter using Twitter streaming API. Tweets were collected from all over the US.
@@ -17,7 +17,10 @@ Collection and Analysis of tweets about President Trump to determine the prevale
 
 -> Came up with interesting insights from the analysis.
 
--> Programming language used: Python
 
+
+Project report can be found in the file Report.pdf 
+
+Programming language used: Python
 
 Other Contributors:  Sujatha Sivakumar and Tapan Patel.
