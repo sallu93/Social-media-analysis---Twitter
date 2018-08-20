@@ -1,4 +1,4 @@
-# Social media analytics-Twitter
+# Social media analytics - Twitter
 
 Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the common topics in the tweets.
 
