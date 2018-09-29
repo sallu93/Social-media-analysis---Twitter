@@ -8,7 +8,7 @@ def sent_analysis(file_name):
 	with open(file_name,'r') as f:
 		lines=f.readlines()
 	 
-	# start of sentiment analysis (question 2)  
+	# start of sentiment analysis
 	sub_list=[]
 	pol_list=[]
 	for line in lines:
