@@ -2,7 +2,7 @@
 
 Collection and Analysis of tweets about President Trump to determine the prevalent public sentiment about the president and the trending  topics in the tweets.
 
-## Project steps
+## Project Steps
 - Collected 10,000 tweets about President trump from Twitter using Twitter streaming API. Tweets were collected from all over the US.
 
 - The tweets collected(DATA) were cleaned and prepared for analysis (Pre-processing).
@@ -18,9 +18,9 @@ Collection and Analysis of tweets about President Trump to determine the prevale
 - Came up with interesting insights from the analysis.
 
 
+## Other Info
+- Project report can be found in the file "Report.pdf".
 
-Project report can be found in the file "Report.pdf".
+- Programming language used: Python.
 
-Programming language used: Python.
-
-Other Contributors:  Sujatha Sivakumar and Tapan Patel.
+- Other Contributors:  Sujatha Sivakumar and Tapan Patel.
