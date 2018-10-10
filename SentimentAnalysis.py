@@ -39,4 +39,6 @@ def sent_analysis(file_name):
 	print ('the average of subjectivity scores is {}'.format(sub_avg))
 	print ('the average of polarity scores is {}'.format(pol_avg))
 	
+# End of sentiment analysis
+	
 sent_analysis('TrumpExtractGeneral(Cleaned)')
