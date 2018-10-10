@@ -13,18 +13,12 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn import decomposition
 from gensim import corpora, models, similarities, matutils
 import re
-import nltk
 import pandas as pd
-import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
-from gensim import corpora
-from gensim import models
 import logging
-import string
-import nltk
-import matplotlib.pyplot as plt
 from nltk.stem.lancaster import LancasterStemmer
 from wordcloud.wordcloud import WordCloud
+
+
 ls = LancasterStemmer()
 def gen_wordcloud(file_name):
     with open (file_name,'r') as file:
